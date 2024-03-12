@@ -26,7 +26,7 @@ Welcome to the Netflix Clone project! This project is a simple replica of the po
 
 ## Usage
 
-1. **Open index.html**: Open the `index.html` file in your web browser.
+1. **Open index.html**: Open the `main.html` file in your web browser.
 2. **Explore Content**: Explore the catalog of movies and TV shows displayed on the webpage.
 3. **Select a Title**: Click on a title to simulate the streaming experience.
 4. **Enjoy!**
