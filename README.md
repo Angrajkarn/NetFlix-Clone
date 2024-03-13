@@ -33,7 +33,7 @@ Welcome to the Netflix Clone project! This project is a simple replica of the po
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. this project is not resposibe so you guys are welcome to contribute  this.
 
 ## License
 
